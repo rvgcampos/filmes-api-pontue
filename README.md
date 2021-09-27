@@ -1,5 +1,8 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
+## Explicando a API
+Foi feita uma API de filmes com o CRUD completo. E também foi feito o CRUD da entidade Genero. Como a relação é muitas-para-muitas foi criada uma tabela pivo. Também foi feita a parte de proteção de rotas com a autenticação.
+
 ## Como rodar o projeto
 
 >1 - Executar o comando
