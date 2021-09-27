@@ -25,3 +25,9 @@ OBS: Esse arquivo foi colocado na raiz do repositório
 [Link para acessar](https://github.com/rvgcampos/flutter_web_api_pontue)
 
 * Caso queria ver as duas telas criadas [Login e Cadastro] (https://peaceful-haibt-cfe35e.netlify.app/#/)
+
+* Aplicação front-end de fato funciona, mas tem que executar localmente.
+
+* Banco que foi usado foi o SQLite
+
+* E para rodar os testar basta executar ``` vendor/bin/phpunit ```
